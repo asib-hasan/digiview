@@ -93,12 +93,12 @@ import { ref } from 'vue'
 const mobileMenuOpen = ref(false)
 
 const navLinks = [
-  { name: 'Products', path: '/products' },
-  { name: 'Solutions', path: '/solutions' },
-  { name: 'Services', path: '/services' },
-  { name: 'Resources', path: '/resources' },
-  { name: 'Our Partners', path: '/partners' },
-  { name: 'About Us', path: '/about' },
-  { name: 'Contact Us', path: '/contact' },
+  { name: 'Products', path: '#' },
+  { name: 'Solutions', path: '#' },
+  { name: 'Services', path: '#' },
+  { name: 'Resources', path: '#' },
+  { name: 'Our Partners', path: '#' },
+  { name: 'About Us', path: '#' },
+  { name: 'Contact Us', path: '#' },
 ]
 </script>
