@@ -1,8 +1,8 @@
 <template>
-  <div class="bg-slate-950 min-h-screen text-slate-200">
+  <div class="bg-white min-h-screen text-slate-800">
     <DigiHeroSlider />
-    <DigiFeatures />
     <DigiCategories />
+    <DigiFeatures />
     <DigiSolutions />
     <DigiProductGrid />
     <DigiMarquee />

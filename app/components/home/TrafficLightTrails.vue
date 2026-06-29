@@ -41,9 +41,9 @@ const generateTrails = () => {
 
   for (let i = 0; i < numTrails; i++) {
     const isLeft = Math.random() > 0.5
-    // Red/Orange lights for tail lights, White/Yellow for headlights
+    // Red/amber lights for tail lights, White/Yellow for headlights
     const color = isLeft 
-      ? (Math.random() > 0.8 ? '#fb923c' : '#ef4444') // Orange or Red
+      ? (Math.random() > 0.8 ? '#fb923c' : '#ef4444') // amber or Red
       : (Math.random() > 0.8 ? '#fef08a' : '#ffffff') // Yellow or White
       
     newTrails.push({
