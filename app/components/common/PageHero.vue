@@ -6,7 +6,7 @@
       <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/60 to-slate-900/80"></div>
     </div>
     <div v-else class="absolute inset-0 z-0 bg-slate-900 overflow-hidden">
-      <img src="/images/tech-hero-bg.png" alt="ATTBD Background" class="w-full h-full object-cover opacity-50 mix-blend-luminosity animate-bg-zoom" />
+      <img src="/slider/1.webp" alt="ATTBD Background" class="w-full h-full object-cover opacity-50 mix-blend-luminosity animate-bg-zoom" />
       <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/80 to-slate-900/40"></div>
     </div>
 

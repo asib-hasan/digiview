@@ -100,22 +100,22 @@
         
         <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
           <div class="bg-[#f5f5f5] rounded-2xl h-56 flex flex-col items-center justify-center p-6 text-center hover:shadow-md transition-shadow animate-fade-up delay-100">
-            <img src="/images/logo_mehboob_nav.png" alt="Mehboob & Masood Navigation" class="h-20 object-contain mb-4 mix-blend-multiply" />
+            <img src="/images/logo.png" alt="Mehboob & Masood Navigation" class="h-20 object-contain mb-4 mix-blend-multiply" />
             <h3 class="font-black text-slate-900 text-lg mb-1">Mehboob & Masood Navigation</h3>
             <p class="text-slate-500 font-medium text-[10px] uppercase tracking-widest">Ship Operation & Logistics</p>
           </div>
           <div class="bg-[#f5f5f5] rounded-2xl h-56 flex flex-col items-center justify-center p-6 text-center hover:shadow-md transition-shadow animate-fade-up delay-200">
-            <img src="/images/logo_shams_nav.png" alt="Shams Navigation" class="h-20 object-contain mb-4 mix-blend-multiply" />
+            <img src="/images/logo.png" alt="Shams Navigation" class="h-20 object-contain mb-4 mix-blend-multiply" />
             <h3 class="font-black text-slate-900 text-lg mb-1">Shams Navigation</h3>
             <p class="text-slate-500 font-medium text-[10px] uppercase tracking-widest">Carrier Operation</p>
           </div>
           <div class="bg-[#f5f5f5] rounded-2xl h-56 flex flex-col items-center justify-center p-6 text-center hover:shadow-md transition-shadow animate-fade-up delay-300">
-            <img src="/images/logo_mehboob_builders.png" alt="Engr. Mehboob Ship Builders" class="h-20 object-contain mb-4 mix-blend-multiply" />
+            <img src="/images/logo.png" alt="Engr. Mehboob Ship Builders" class="h-20 object-contain mb-4 mix-blend-multiply" />
             <h3 class="font-black text-slate-900 text-lg mb-1">Engr. Mehboob Ship Builders</h3>
             <p class="text-slate-500 font-medium text-[10px] uppercase tracking-widest">Manufacturing</p>
           </div>
           <div class="bg-[#f5f5f5] rounded-2xl h-56 flex flex-col items-center justify-center p-6 text-center hover:shadow-md transition-shadow animate-fade-up delay-400">
-            <img src="/images/logo_am_corp.png" alt="A M Corporation" class="h-20 object-contain mb-4 mix-blend-multiply" />
+            <img src="/images/logo.png" alt="A M Corporation" class="h-20 object-contain mb-4 mix-blend-multiply" />
             <h3 class="font-black text-slate-900 text-lg mb-1">A M Corporation</h3>
             <p class="text-slate-500 font-medium text-[10px] uppercase tracking-widest">General Trading & Supply</p>
           </div>
