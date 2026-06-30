@@ -15,7 +15,7 @@
               Request a Quote
             </NuxtLink>
             
-            <NuxtLink to="/products" class="w-full sm:w-auto px-10 py-4 bg-slate-800 hover:bg-slate-700 text-white font-bold rounded transition-colors flex items-center justify-center gap-2 uppercase tracking-wider">
+            <NuxtLink to="#" class="w-full sm:w-auto px-10 py-4 bg-slate-800 hover:bg-slate-700 text-white font-bold rounded transition-colors flex items-center justify-center gap-2 uppercase tracking-wider">
               Browse Inventory
             </NuxtLink>
           </div>
